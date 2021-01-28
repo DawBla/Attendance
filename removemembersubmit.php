@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>GG Team 2 Attendance tracker</title>
+    <title>Attendance tracker</title>
     <meta charset="utf-8">
     <meta http-equiv="refresh" content="5; URL=index.php" />
     <link rel="stylesheet" href="css/styles.css">
@@ -9,7 +9,7 @@
   <body>
     <div id="content" class="centered">
       <div class="centered header">
-        <h1>GG Team 2 Attendance tracker</h1>
+        <h1>Attendance tracker</h1>
       </div>
 
       <div class="centered container" style="margin-top:30px">
